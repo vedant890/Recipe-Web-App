@@ -1,7 +1,7 @@
 Welcome to the Recipe Web Application, a simple and interactive platform to discover your favorite recipes!
 
 Features:
-User-Friendly Interface: simplke design for easy navigation and a seamless user experience.
+User-Friendly Interface: simple design for easy navigation and a seamless user experience.
 Search Functionality: Quickly find recipes by ingredients or dish name.
 Recipe Details: Access detailed information, including ingredients, instructions.
 User Contributions: Contribute your own recipes and share them with the community.
